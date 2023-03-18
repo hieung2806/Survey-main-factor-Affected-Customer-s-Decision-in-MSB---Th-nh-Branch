@@ -1,9 +1,9 @@
 
-This is my real-world on my Data Analysis road. 
+This is my real-world project on my Data Analysis road. 
 
 Data was collected by a survey, which was sent to customers of MSB Đô Thành Branch about factors affecting customers' decisions.
 
-Now, let’s see my analysis word in my notebook, dashboard and report... Thanks
+Now, let’s see my analysis work in  notebook, dashboard and report ... Thanks
 
 
 
